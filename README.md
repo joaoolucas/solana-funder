@@ -24,7 +24,7 @@ A Python script for automatically distributing SOL to multiple wallet addresses 
 1. Clone the repository
 2. Install dependencies:
    ```
-   pip install solana python-dotenv base58
+   pip install solana-sdk python-dotenv base58
    ```
 
 ## Configuration
