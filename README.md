@@ -99,7 +99,10 @@ Waiting 45.32 seconds before next transaction...
 ## Contributing
 
 Feel free to submit issues and pull requests.
+Pay me a coffee: jnmA7qig7BqzeyqRFy93Ys9rGEHPP5F4fjn1zydSXTt
 
-## License
+## Credits
 
-MIT License - feel free to use this code for any purpose.
+Made by mortiee.
+Discord: mortiee
+Twitter: @0xliberato
